@@ -1,2 +1,5 @@
 /dataset
 /ancien
+*.pkl
+*.h5
+requirements.txt
