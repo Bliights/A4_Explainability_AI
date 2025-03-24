@@ -2,4 +2,6 @@
 /ancien
 *.pkl
 *.h5
+*.joblib
 requirements.txt
+/models
