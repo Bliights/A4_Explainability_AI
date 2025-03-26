@@ -1,8 +1,8 @@
-# Explainability AI project
+# Explainability AI project : Analysis and Optimization of Energy Consumption
 
 Everything is in the notebook :)
 
-## Contributors
+## Contributors (Groupe CDOF6)
 ***
 
 |            Name            |       Pseudo       |                   Email                   |
